@@ -20,7 +20,7 @@ Welcome to CalculatorApp! This iOS application is a feature-rich calculator with
 
 ## App Images 🖼️
 
-<!-- Add images of the app in different sizes -->
+<img width="1440" alt="Untitled" src="https://github.com/Shaiksadaf17/Calculator1733/assets/121873557/9d04043e-1c61-4163-9e96-7173228a8df9">
 
 ## Technologies Used 🚀
 
