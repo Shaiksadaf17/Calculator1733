@@ -15,7 +15,8 @@ Welcome to CalculatorApp! This iOS application is a feature-rich calculator with
 
 ## App Logo 🎨
 
-![CalculatorApp Logo](path/to/logo/image.png)
+![Calculator](https://github.com/Shaiksadaf17/Calculator1733/assets/121873557/d2aedcc9-3338-443a-8be3-236fa9b6f32b)
+
 
 ## App Images 🖼️
 
