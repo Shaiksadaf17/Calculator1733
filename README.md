@@ -33,7 +33,7 @@ Welcome to CalculatorApp! This iOS application is a feature-rich calculator with
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shaiksadaf17/calculator-app.git
+   git clone https://github.com/Shaiksadaf17/calculator-app.git
 -  Open the project in Xcode.
 - Run the app on the iOS simulator or a physical device.
 ## Enjoy! 😊
